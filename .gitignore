@@ -1,0 +1,7 @@
+*.csproj
+.vs/KinematicBehaviors/v14/.suo
+.vs/jccc-ai/v14/.suo
+Library/
+Temp/
+obj/
+*.sln
